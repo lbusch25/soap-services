@@ -1,0 +1,14 @@
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\bin\RestService.dll.config
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\bin\RestService.dll
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\bin\RestService.pdb
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\obj\Debug\RestService.csproj.AssemblyReference.cache
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\obj\Debug\RestService.csproj.CoreCompileInputs.cache
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\obj\Debug\RestService.dll
+C:\Users\lbusc\source\repos\soap-services\RestService\RestService\obj\Debug\RestService.pdb
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\bin\RestService.dll.config
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\bin\RestService.dll
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\bin\RestService.pdb
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\obj\Debug\RestService.csproj.AssemblyReference.cache
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\obj\Debug\RestService.csproj.CoreCompileInputs.cache
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\obj\Debug\RestService.dll
+C:\Users\lbusc\source\repos\soap-services\BMIServices\RestService\obj\Debug\RestService.pdb

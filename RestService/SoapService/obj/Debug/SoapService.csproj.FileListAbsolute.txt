@@ -1,7 +1,0 @@
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\bin\SoapService.dll.config
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\bin\SoapService.dll
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\bin\SoapService.pdb
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\obj\Debug\SoapService.csproj.AssemblyReference.cache
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\obj\Debug\SoapService.csproj.CoreCompileInputs.cache
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\obj\Debug\SoapService.dll
-C:\Users\lbusc\source\repos\soap-services\SoapService\SoapService\obj\Debug\SoapService.pdb
